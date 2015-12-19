@@ -1,0 +1,21 @@
+{
+  "name": "ClockApp",
+  "version": "0.0.0",
+  "description": "テスト時計アプリ",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ./app/main.js"
+  },
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial"
+  ],
+  "author": "soga",
+  "license": "",
+  "devDependencies": {
+    "electron-prebuilt": "^0.36.0",
+    "electron-packager": "~5.2.0"
+  }
+}
